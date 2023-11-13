@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BulkyBook.DataAccess",
+    "\\BulkyBook.DataAccess\\Data",
+    "\\BulkyBookWeb\\Areas",
+    "\\BulkyBookWeb\\Areas\\Admin",
+    "\\BulkyBookWeb\\Areas\\Admin\\Controllers",
+    "\\BulkyBookWeb\\Areas\\Admin\\Views",
+    "\\BulkyBookWeb\\Views",
+    "\\BulkyBookWeb\\Views\\Shared"
+  ],
+  "SelectedNode": "\\BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
