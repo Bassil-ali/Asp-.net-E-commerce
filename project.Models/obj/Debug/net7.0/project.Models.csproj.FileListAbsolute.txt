@@ -1,0 +1,12 @@
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\project.Models.csproj.AssemblyReference.cache
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\project.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\project.Models.AssemblyInfoInputs.cache
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\project.Models.AssemblyInfo.cs
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\project.Models.csproj.CoreCompileInputs.cache
+C:\Users\Bassil-Ali\Desktop\project\project.Models\bin\Debug\net7.0\project.Models.deps.json
+C:\Users\Bassil-Ali\Desktop\project\project.Models\bin\Debug\net7.0\project.Models.dll
+C:\Users\Bassil-Ali\Desktop\project\project.Models\bin\Debug\net7.0\project.Models.pdb
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\project.Models.dll
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\refint\project.Models.dll
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\project.Models.pdb
+C:\Users\Bassil-Ali\Desktop\project\project.Models\obj\Debug\net7.0\ref\project.Models.dll

@@ -1,0 +1,12 @@
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\bin\Debug\net7.0\project.Utility.deps.json
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\bin\Debug\net7.0\project.Utility.dll
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\bin\Debug\net7.0\project.Utility.pdb
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\project.Utility.csproj.AssemblyReference.cache
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\project.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\project.Utility.AssemblyInfoInputs.cache
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\project.Utility.AssemblyInfo.cs
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\project.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\project.Utility.dll
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\refint\project.Utility.dll
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\project.Utility.pdb
+C:\Users\Bassil-Ali\Desktop\project\project.Utility\obj\Debug\net7.0\ref\project.Utility.dll

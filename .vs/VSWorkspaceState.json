@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BulkyBook.DataAccess",
-    "\\BulkyBook.DataAccess\\Data",
-    "\\BulkyBookWeb\\Areas",
-    "\\BulkyBookWeb\\Areas\\Admin",
-    "\\BulkyBookWeb\\Areas\\Admin\\Controllers",
-    "\\BulkyBookWeb\\Areas\\Admin\\Views",
-    "\\BulkyBookWeb\\Views",
-    "\\BulkyBookWeb\\Views\\Shared"
+    "\\project.DataAccess",
+    "\\project.DataAccess\\Data",
+    "\\project.DataAccess\\DbInitializer",
+    "\\project.Models",
+    "\\projectWeb",
+    "\\projectWeb\\Areas",
+    "\\projectWeb\\Areas\\Identity",
+    "\\projectWeb\\Areas\\Identity\\Pages",
+    "\\projectWeb\\Areas\\Identity\\Pages\\Account"
   ],
-  "SelectedNode": "\\BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
+  "SelectedNode": "\\project.sln",
   "PreviewInSolutionExplorer": false
 }
