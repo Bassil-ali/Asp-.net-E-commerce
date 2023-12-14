@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jm9jl/jwi36O3BrqEt+vXJnGj0iE1qxdgZolqIPw61o=",
+  "Hash": "vvO5BNaKP8x/cisbA0hWf0nCUkhWJRbOQmDFUd/IH7I=",
   "Source": "projectWeb",
   "BasePath": "_content/projectWeb",
   "Mode": "Default",
@@ -1188,6 +1188,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\a6b77faa-5d61-4b2b-9c50-87d01fc172da.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bassil-Ali\\Desktop\\project\\projectWeb\\wwwroot\\images\\products\\bf30d07e-7c00-4348-9af9-5aa2edce830b.png",
+      "SourceId": "projectWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bassil-Ali\\Desktop\\project\\projectWeb\\wwwroot\\",
+      "BasePath": "_content/projectWeb",
+      "RelativePath": "images/products/bf30d07e-7c00-4348-9af9-5aa2edce830b.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\bf30d07e-7c00-4348-9af9-5aa2edce830b.png"
     },
     {
       "Identity": "C:\\Users\\Bassil-Ali\\Desktop\\project\\projectWeb\\wwwroot\\images\\products\\e10b7d8c-c46b-4186-ae67-c0bc8b21d3b6.jpg",

@@ -1,15 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\project.DataAccess",
-    "\\project.DataAccess\\Data",
-    "\\project.DataAccess\\DbInitializer",
-    "\\project.Models",
-    "\\projectWeb",
-    "\\projectWeb\\Areas",
-    "\\projectWeb\\Areas\\Identity",
-    "\\projectWeb\\Areas\\Identity\\Pages",
-    "\\projectWeb\\Areas\\Identity\\Pages\\Account"
+    ""
   ],
   "SelectedNode": "\\project.sln",
   "PreviewInSolutionExplorer": false
